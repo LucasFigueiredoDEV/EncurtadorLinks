@@ -83,7 +83,7 @@
 
     <footer>
         <h6><a href="https://github.com/LucasFigueiredoDEV">©CodeByLucasFigueiredo</a></h6>
-        <h6><a href="">Repositório</a></h6>
+        <h6><a href="https://github.com/LucasFigueiredoDEV/EncurtadorLinks">Repositório</a></h6>
     </footer>
 </body>
 </html>
